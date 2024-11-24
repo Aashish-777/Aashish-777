@@ -15,7 +15,7 @@
 [twitter]: https://twitter.com
 [youtube]: https://www.youtube.com/@aashish_khatri1
 [instagram]: https://www.instagram.com/aashish_khatri1/
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
