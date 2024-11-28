@@ -1,7 +1,7 @@
 <h1>Hi, I'm Aashish! <br/><a href="https://github.com">Programmer</a>, <a href="https://www.linkedin.com">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-Internal Audit Report : https://github.com/Aashish-777/Internal-Audit
+Internal Audit Report : https://github.com/Aashish-777/IT-Security-Audit-Report/tree/main
 
 Cybersecurity Incident Report : https://github.com/Aashish-777/Cyber-Security-Incident-Report/tree/main
 <h2> 📜 Certifications </h2>
