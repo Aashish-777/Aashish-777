@@ -7,6 +7,8 @@ Cybersecurity Incident Report: https://github.com/Aashish-777/Cyber-Security-Inc
 
 Malicious Redirect Cyber Incident: https://github.com/Aashish-777/Malicious-Redirect-Cyber-Incident/tree/main
 
+Incident Report Analysis Using NIST CSF: https://github.com/Aashish-777/Incident-Report-Analysis-Using-NIST-CSF/tree/main
+
 <h2> 📜 Certifications </h2>
 
 
