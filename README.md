@@ -12,6 +12,8 @@ Incident Report Analysis Using NIST CSF: https://github.com/Aashish-777/Incident
 
 Managing Authorization in Linux Using Bash Commands : https://github.com/Aashish-777/Managing-Authorization-in-Linux-Using-Bash-Commands/tree/main
 
+Apply Filters to SQL Queries : https://github.com/Aashish-777/Apply-Filters-to-SQL-Queries/tree/main
+
 <h2> 📜 Certifications </h2>
 
 
