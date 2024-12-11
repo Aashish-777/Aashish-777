@@ -22,6 +22,7 @@ Python Allow List Update : https://github.com/Aashish-777/Python-Allow-List-Upda
 
 <h2> 📜 Certifications </h2>
 
+https://github.com/Aashish-777/Google-CyberSecurity-Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
